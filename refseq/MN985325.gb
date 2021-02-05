@@ -65,6 +65,7 @@ FEATURES             Location/Qualifiers
                      (Mpro); mediates cleavages downstream of nsp4. 3D
                      structure of the SARSr-CoV homolog has been determined
                      (Yang et al., 2003); produced by both pp1a and pp1ab"
+     CDS             10973..11842
                      /gene="nsp6"
                      /product="nsp6"
                      /note="nsp6_TM; putative transmembrane domain; produced
