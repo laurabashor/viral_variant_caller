@@ -30,13 +30,6 @@ REFERENCE   2  (bases 1 to 29882)
             Disease Control and Prevention, 1600 Clifton Rd NE, Atlanta, GA
             30033, USA
 FEATURES             Location/Qualifiers
-     CDS             join(266..13468,13468..21555)
-                     /gene="ORF1ab"
-                     /ribosomal_slippage
-                     /note="pp1ab; translated by -1 ribosomal frameshift"
-                     /codon_start=1
-                     /product="ORF1ab polyprotein"
-                     /db_xref="GeneID:43740578"
      CDS             266..805
                      /gene="nsp1"
                      /product="leader protein"
