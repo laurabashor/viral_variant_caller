@@ -63,6 +63,9 @@ FEATURES             Location/Qualifiers
                      /product="nsp6"
                      /note="nsp6_TM; putative transmembrane domain; produced
                      byboth pp1a and pp1ab"
+     CDS             11843..12091
+                     /gene="nsp7"
+                     /product="nsp7"
      CDS             12092..12685
                      /gene="nsp8"
                      /product="nsp8"
